@@ -6,7 +6,7 @@ import (
 	display "github.com/djdhm/external-dep/lib"
 )
 
-const Version = "v1.0.0"
+const Version = "v1.0.1"
 
 func TestLib() {
 	fmt.Println("I am moab-dep-2 version " + Version)
